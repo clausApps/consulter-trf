@@ -1,0 +1,1 @@
+<h1>Dashboard do Consulter Prect</h1><p>Bem-vindo ao sistema jurídico automatizado.</p>
